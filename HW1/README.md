@@ -1,0 +1,2 @@
+##Question
+Familiarize with polymorphism, inheritance and interface concepts along with the following methods and keywords, super, toString, instanceof, isequals, this and the Object object. Build upon the Shape3D interface to design and implement the classes.
